@@ -41,6 +41,6 @@ def play(board)
   i = 0
   while i < 8
     turn(board)
-    i++
+    i += 1
   end
 end
